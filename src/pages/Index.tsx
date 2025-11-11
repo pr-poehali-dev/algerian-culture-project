@@ -16,9 +16,9 @@ const Index = () => {
   ];
 
   const musicVideos = [
-    { title: 'Cheb Khaled - Didi', url: 'https://www.youtube.com/embed/mUGNvPKWtBE' },
-    { title: 'Cheb Mami - Douha Alia', url: 'https://www.youtube.com/embed/xwxi7GDFXs0' },
-    { title: 'Rachid Taha - Ya Rayah', url: 'https://www.youtube.com/embed/06J0J9P8C9U' },
+    { title: 'Cheb Khaled - Aicha', url: 'https://www.youtube.com/embed/RvK19xgAxSU' },
+    { title: 'Cheb Hasni - Beraka', url: 'https://www.youtube.com/embed/vVx4F-HcYYo' },
+    { title: 'Cheb Bilal - Kayen Wla Makayen', url: 'https://www.youtube.com/embed/QcgqBP9aQe0' },
   ];
 
   const audioTracks = [
